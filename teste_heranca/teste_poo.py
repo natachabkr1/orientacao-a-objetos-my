@@ -1,6 +1,6 @@
 # Exemplo de Herança em um Jogo de RPG Estilo Final Fantasy 
 
-# Classe base
+# Classe base  (é a abstração do objeto)
 class Personagem:
     def __init__(self, nome, nivel):
         self.nome = nome
